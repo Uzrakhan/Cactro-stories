@@ -1,16 +1,108 @@
-# React + Vite
+📱 **Instagram Stories — React + Tailwind**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A mobile-first Instagram-style Stories feature built with React and Tailwind CSS.
+Users can browse horizontally through stories, open them fullscreen, auto-play content, and manually navigate — just like the real app.
 
-Currently, two official plugins are available:
+-------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 **FEATURES**
+🟣 **Stories List**
 
-## React Compiler
+1. Mobile-only layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+2. Horizontally scrollable story bubbles
 
-## Expanding the ESLint configuration
+3. User avatar + username
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+4. New-story indicator badge
+
+📖 **Story Viewer**
+
+1. Full-screen immersive viewer
+
+2. User avatar + username in header
+
+3. Gradient overlay for readability
+
+4. Progress bars for each story
+
+5. Auto-advance every 5 seconds
+
+6. Tap left / right to navigate
+
+7. Loading spinner while media loads
+
+8. Supports multiple users & multiple stories per user
+
+9. Viewer closes after last story
+
+
+
+📂 **Data Handling**
+
+1. Story + user details loaded from an external JSON file
+
+2. Easily scalable — add more users or stories without code changes
+
+
+🎨 **Tech Used**
+
+1. ⚛ React
+
+2. 🎨 Tailwind CSS
+
+3. 🚦 React Hooks: useState, useEffect
+
+4. 📱 Mobile-first responsive UI
+
+-------------
+
+
+🛠 **Installation & Setup**
+git clone <your-repo-url>
+
+cd project-folder
+
+npm install
+
+npm run dev
+
+Open in browser at: http://localhost:5173
+
+---------
+
+📁 **Project Structure**
+
+src/
+ ├── components/
+ │    └── Stories.jsx
+ ├── data/
+ │    └── stories.json
+ ├── main.jsx
+ └── index.css
+
+-----------
+🧠 **How It Works (Short Explanation)**
+
+State stores:
+
+1. current user
+
+2. current story
+
+3. progress bar value
+
+4. loading state
+
+A useEffect handles auto-advance timing
+
+Navigation resets loading + progress
+
+When the last story ends → viewer closes
+
+This keeps logic simple, clean, and readable.
+----------
+
+🙌 **Acknowledgements**
+
+This project was built as part of a Ccatro Frontend Hiring Test to recreate the Instagram Stories viewing experience using React + Tailwind.
