@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "username": "david_elsa",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "stories": [
+      {
+        "id": 1,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1765568562586-6a6a0e961582?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDh8dG93SlpGc2twR2d8fGVufDB8fHx8fA%3D%3D",
+        "caption": "OFFROAD!!!",
+        "viewed": false
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1765808925935-e4fab8f2f6c5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEyfHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D",
+        "caption": "First time racing!!",
+        "viewed": false
+      },
+      {
+        "id": 3,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1766250822346-66062bd1052c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D",
+        "caption": "Made for each other ",
+        "viewed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "gym_freak",
+    "avatar": "https://i.pravatar.cc/150?img=",
+    "stories": [
+      {
+        "id": 1,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3ltfGVufDB8fDB8fHww",
+        "caption": "Nobody can stop me",
+        "viewed": false
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1585426860728-213bb625164f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlYXQlMjBkYXl8ZW58MHx8MHx8fDA%3D",
+        "caption": "Cheat day!!",
+        "viewed": false
+      },
+      {
+        "id": 3,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1623874106686-5be2b325c8f1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z3ltJTIwZXF1aXBtZW50fGVufDB8fDB8fHww",
+        "caption": "Be so tough nobody can break you!!!",
+        "viewed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "tech_guru",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "stories": [
+      {
+        "id": 1,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1595304739328-740de7b50281?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGF0ZXN0JTIwZ2FkZ2V0c3xlbnwwfHwwfHx8MA%3D%3D",
+        "caption": "Latest gadgets! 📱",
+        "viewed": true
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "media": "https://plus.unsplash.com/premium_photo-1674389991678-0836ca77c7f7?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2FtZXJhfGVufDB8fDB8fHww",
+        "caption": "My new camera",
+        "viewed": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "travel_diaries",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "stories": [
+      {
+        "id": 1,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1639800166759-fc944b3e609d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsJTIwZGlhcmllc3xlbnwwfHwwfHx8MA%3D%3D",
+        "caption": "Beautiful ",
+        "viewed": false
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1672836659565-3f0c91937858?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dHJhdmVsJTIwZGlhcmllc3xlbnwwfHwwfHx8MA%3D%3D",
+        "caption": "Take me back!!!",
+        "viewed": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "art_lover",
+    "avatar": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "stories": [
+      {
+        "id": 1,
+        "type": "image",
+        "media": "https://images.unsplash.com/photo-1533191731174-d3f00e1e198a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2F1ZGklMjBhcmFiaWElMjBhcnR8ZW58MHx8MHx8fDA%3D",
+        "caption": "Saudi arabia",
+        "viewed": false
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "media": "https://plus.unsplash.com/premium_photo-1664206964650-8b8bfa07a41f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29mZmVlJTIwbW9ybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "caption": "Just started my day...",
+        "viewed": false
+      }
+    ]
+  }
+]
